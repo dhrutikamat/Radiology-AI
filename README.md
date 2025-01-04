@@ -10,9 +10,9 @@ This project uses a machine learning model to assist radiologists in determining
 
 # Model Overview
 The project uses the following machine learning models to classify the tumors:
-1. Logistic Regression
-2. Support Vector Machine (SVM)
-3. Random Forest Classifier
+1. Feed Forward Neural Network
+2. Training (Backpropagation and Weight Updates)
+3. Optimizer and Acivation Functions
 
 The dataset is split into training and testing sets, and the models are trained to maximize accuracy in distinguishing between the two classes.
 The dataset used for this project is stored in a CSV file named cancer.csv. It contains features extracted from radiology images and a labeled diagnosis column:
