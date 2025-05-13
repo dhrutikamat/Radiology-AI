@@ -20,7 +20,4 @@ The dataset used for this project is stored in a CSV file named cancer.csv. It c
 0: Benign (Non-Cancerous)
 
 # Model Accuracy
-The model achieved the following accuracy scores on the test data:
-● Logistic Regression: 95%
-● Support Vector Machine (SVM): 96%
-● Random Forest Classifier: 97%
+The model achieved 97% accuracy.
